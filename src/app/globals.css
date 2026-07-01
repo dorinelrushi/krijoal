@@ -1575,6 +1575,10 @@ body {
     padding: 72px 0;
   }
 
+  .hero {
+    height: 120vh !important;
+  }
+
   .nav-links {
     display: none;
   }
